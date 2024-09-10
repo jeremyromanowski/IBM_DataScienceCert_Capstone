@@ -1,0 +1,160 @@
+{
+   "type":"FeatureCollection",
+   "totalFeatures": 22,
+   "features": [
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98003",
+          "neighborhood":"Federal Way"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98005",
+          "neighborhood":"Bellevue"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98033",
+          "neighborhood":"Kirkland"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98037",
+          "neighborhood":"Lynnwood"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98040",
+          "neighborhood":"Mercer Island"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98052",
+          "neighborhood":"Redmond"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98055",
+          "neighborhood":"Renton"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98101",
+          "neighborhood":"Downtown"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98102",
+          "neighborhood":"Capitol Hill"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98103",
+          "neighborhood":"Greenwood, Fremont, Greenlake"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98104",
+          "neighborhood":"International District, Pioneer Square"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98105",
+          "neighborhood":"University District, Laurelhurst"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98107",
+          "neighborhood":"Ballard"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98109",
+          "neighborhood":"South Lake Union, Queen Anne"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98110",
+          "neighborhood":"Bainbridge Island"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98122",
+          "neighborhood":"Madrona"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98116",
+          "neighborhood":"West Seattle, Alki Beach"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98118",
+          "neighborhood":"Columbia City"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98121",
+          "neighborhood":"Belltown"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98125",
+          "neighborhood":"Northgate"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98144",
+          "neighborhood":"Mount Baker"
+        }
+      },
+      {
+        "properties":{
+          "type":"Feature",
+          "postal_code":"98199",
+          "neighborhood":"Magnolia"
+        }
+      }
+    ]
+}
